@@ -1,0 +1,6 @@
+# hostname of backup server (as used in ssh config)
+BACKUP_CLIENT_HOSTNAME=
+# name of user used to connect to backup client
+BACKUP_CLIENT_USERNAME=
+# where backup, filter file and log file are located
+BACKUP_PATH_ON_SERVER=
